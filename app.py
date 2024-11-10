@@ -3,7 +3,7 @@ import requests
 import json
 
 # Azure ML Web Service Scoring URI
-scoring_uri = "http://10df56b4-0ab4-44aa-bddd-a0361f9cc9d0.eastus2.azurecontainer.io/score"  
+scoring_uri = "http://34c536ce-86a6-444b-a449-c208563a365e.eastus2.azurecontainer.io/score"  
 
 # Set up headers for HTTP request
 headers = {'Content-Type': 'application/json'}
